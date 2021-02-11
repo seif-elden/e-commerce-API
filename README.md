@@ -32,8 +32,10 @@ django rest framework e-commerce
 
 <br>
 <strong>4- checkout</strong>
-<li>check out place order</li>
+<li>check out (place order)</li>
 
 </ul>
 
 <h3> You will all this requests here : https://www.getpostman.com/collections/6285d3b1f9db1f4d6d45  </h3>
+<hr>
+Admin can add Category and products & see all oreders in the admin panel
