@@ -38,10 +38,10 @@ django rest framework e-commerce
 
 <h3> You will all this requests here : https://www.getpostman.com/collections/6285d3b1f9db1f4d6d45  </h3>
 <hr>
-<br>
+
 Admin can add Category and products & see all oreders in the admin panel
 
-
+<br>
 TO DO :
 
 learn react and make a front-end 
